@@ -1,6 +1,20 @@
 {
+  "app": "MD Down",
+  "app_name": "MD Down",
   "version": "2.5.7",
-  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.5.7/MDLOAD.exe",
-  "changelog": "- Phát hành bản thương mại chính thức MDLOAD v2.5.7\n- Chuẩn hóa hệ thống 4 gói bản quyền: Gói Trải Nghiệm, Spy Affiliate Mạng Xã Hội, Spy Affiliate Tiktok, Supper Spy\n- Cập nhật biểu giá chính thức gói Spy Affiliate Tiktok\n- Hệ thống bảo mật bản quyền theo Machine ID và kiểm soát quota chuẩn xác",
+  "tag": "v2.5.7",
+  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.5.7/MDDown.exe",
+  "asset": "MDDown.exe",
+  "sha256": "ED485C2956872069E64B106B634EB4BA0942AAFE081A89C31CBA745A6492C086",
+  "file_size": 115289140,
+  "changelog": "- Phát hành bản thương mại chính thức MD Down v2.5.7\n- Đổi tên ứng dụng chính thức thành MD Down\n- Tự động đồng bộ License lên Cloud Realtime qua Gist Raw không tốn Quota\n- Khóa bản quyền toàn phần bảo mật cao\n- Chuẩn hóa quota theo 4 gói bản quyền: Trải nghiệm, Spy MXH, Spy TikTok, Supper Spy\n- Tối ưu bộ nhớ và CPU siêu nhẹ khi treo máy 24/24",
+  "release_notes": [
+    "Phát hành bản thương mại chính thức MD Down v2.5.7",
+    "Đổi tên ứng dụng chính thức thành MD Down",
+    "Tự động đồng bộ License lên Cloud Realtime qua Gist Raw không tốn Quota",
+    "Khóa bản quyền toàn phần bảo mật cao",
+    "Chuẩn hóa quota theo 4 gói bản quyền: Trải nghiệm, Spy MXH, Spy TikTok, Supper Spy",
+    "Tối ưu bộ nhớ và CPU siêu nhẹ khi treo máy 24/24"
+  ],
   "release_date": "2026-10-17"
 }
