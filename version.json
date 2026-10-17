@@ -7,14 +7,19 @@
   "asset": "MDDown.exe",
   "sha256": "ED485C2956872069E64B106B634EB4BA0942AAFE081A89C31CBA745A6492C086",
   "file_size": 115289140,
-  "changelog": "- Phát hành bản thương mại chính thức MD Down v2.5.7\n- Đổi tên ứng dụng chính thức thành MD Down\n- Tự động đồng bộ License lên Cloud Realtime qua Gist Raw không tốn Quota\n- Khóa bản quyền toàn phần bảo mật cao\n- Chuẩn hóa quota theo 4 gói bản quyền: Trải nghiệm, Spy MXH, Spy TikTok, Supper Spy\n- Tối ưu bộ nhớ và CPU siêu nhẹ khi treo máy 24/24",
+  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.5.7/MD_Down_v2.5.7.zip",
+  "zip_asset": "MD_Down_v2.5.7.zip",
+  "zip_sha256": "DA5ED8EFAC6AAB157E03A820DE7947A6B5214543C23E23595119108F1FC93B66",
+  "zip_file_size": 260962171,
+  "changelog": "- Bản phát hành chính thức MD Down v2.5.7\n- Đổi tên ứng dụng chính thức thành MD Down\n- Tự động đồng bộ License lên Cloud Realtime qua Gist Raw không tốn Quota\n- Khóa bản quyền toàn phần bảo mật cao\n- Chuẩn hóa quota theo 4 gói bản quyền: Trải nghiệm, Spy MXH, Spy TikTok, Supper Spy\n- Tối ưu bộ nhớ và CPU siêu nhẹ khi treo máy 24/24\n- Hệ thống tự động cập nhật OTA 2 lớp (PowerShell OTA Engine + MDDown_Updater)",
   "release_notes": [
-    "Phát hành bản thương mại chính thức MD Down v2.5.7",
+    "Bản phát hành chính thức MD Down v2.5.7",
     "Đổi tên ứng dụng chính thức thành MD Down",
     "Tự động đồng bộ License lên Cloud Realtime qua Gist Raw không tốn Quota",
     "Khóa bản quyền toàn phần bảo mật cao",
     "Chuẩn hóa quota theo 4 gói bản quyền: Trải nghiệm, Spy MXH, Spy TikTok, Supper Spy",
-    "Tối ưu bộ nhớ và CPU siêu nhẹ khi treo máy 24/24"
+    "Tối ưu bộ nhớ và CPU siêu nhẹ khi treo máy 24/24",
+    "Hệ thống tự động cập nhật OTA 2 lớp (PowerShell OTA Engine + MDDown_Updater)"
   ],
   "release_date": "2026-10-17"
 }
