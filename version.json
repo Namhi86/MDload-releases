@@ -1,25 +1,24 @@
 {
   "app": "MD Down",
   "app_name": "MD Down",
-  "version": "2.5.7",
-  "tag": "v2.5.7",
-  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.5.7/MDDown.exe",
+  "version": "2.6.0",
+  "tag": "v2.6.0",
+  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.0/MDDown.exe",
   "asset": "MDDown.exe",
-  "sha256": "733D67BB76C02E4D9CDB35D925D57C50D8018852518E77F5AE3DD6CC6F61342F",
-  "file_size": 115291798,
-  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.5.7/MD_Down_v2.5.7.zip",
-  "zip_asset": "MD_Down_v2.5.7.zip",
-  "zip_sha256": "2B45130481DA570127EE11CB5DFE895B150A8ABF1DDA9A62F95F0F623C85B8F4",
-  "zip_file_size": 260964780,
-  "changelog": "- Bản phát hành chính thức MD Down v2.5.7\n- Đổi tên ứng dụng chính thức thành MD Down\n- Tự động đồng bộ License lên Cloud Realtime qua Gist Raw không tốn Quota\n- Khóa bản quyền toàn phần bảo mật cao\n- Chuẩn hóa quota theo 4 gói bản quyền: Trải nghiệm, Spy MXH, Spy TikTok, Supper Spy\n- Tối ưu bộ nhớ và CPU siêu nhẹ khi treo máy 24/24\n- Hệ thống tự động cập nhật OTA 2 lớp (PowerShell OTA Engine + MDDown_Updater)",
+  "sha256": "A78BCA6797C6FC121F3C8DE384B81DAB8782B3CCB65574A1B9B1F4E247158CDB",
+  "file_size": 115294943,
+  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.0/MD_Down_v2.6.0.zip",
+  "zip_asset": "MD_Down_v2.6.0.zip",
+  "zip_sha256": "F958AA63CDDCB2A583A708CF6FCED3050075767D003969F38F4DD073B30CDB55",
+  "zip_file_size": 263513115,
+  "changelog": "- Bản phát hành chính thức MD Down v2.6.0\n- Thêm tính năng tự động thêm ngày vào tên file video [YYYY-MM-DD]\n- Thêm tính năng tự động phân loại thư mục theo ngày ngăn nắp\n- Bổ sung tùy chọn nguồn ngày: Ưu tiên ngày đăng video hoặc Luôn lấy ngày tải hôm nay\n- Giao diện tích hợp checkbox điều khiển trực quan tại Tab Quét & Tải và Tab Cài đặt\n- Giữ nguyên 100% các tính năng sẵn có (Realtime License, TikTok Shop, Spy FB/IG Reels)",
   "release_notes": [
-    "Bản phát hành chính thức MD Down v2.5.7",
-    "Đổi tên ứng dụng chính thức thành MD Down",
-    "Tự động đồng bộ License lên Cloud Realtime qua Gist Raw không tốn Quota",
-    "Khóa bản quyền toàn phần bảo mật cao",
-    "Chuẩn hóa quota theo 4 gói bản quyền: Trải nghiệm, Spy MXH, Spy TikTok, Supper Spy",
-    "Tối ưu bộ nhớ và CPU siêu nhẹ khi treo máy 24/24",
-    "Hệ thống tự động cập nhật OTA 2 lớp (PowerShell OTA Engine + MDDown_Updater)"
+    "Bản phát hành chính thức MD Down v2.6.0",
+    "Thêm tính năng tự động thêm ngày vào tên file video [YYYY-MM-DD]",
+    "Thêm tính năng tự động phân loại thư mục theo ngày ngăn nắp",
+    "Bổ sung tùy chọn nguồn ngày: Ưu tiên ngày đăng video hoặc Luôn lấy ngày tải hôm nay",
+    "Giao diện tích hợp checkbox điều khiển trực quan tại Tab Quét & Tải và Tab Cài đặt",
+    "Giữ nguyên 100% các tính năng sẵn có (Realtime License, TikTok Shop, Spy FB/IG Reels)"
   ],
-  "release_date": "2026-10-17"
+  "release_date": "2026-10-20"
 }
