@@ -1,24 +1,22 @@
 {
   "app": "MD Down",
   "app_name": "MD Down",
-  "version": "2.6.0",
-  "tag": "v2.6.0",
-  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.0/MDDown.exe",
+  "version": "2.6.1",
+  "tag": "v2.6.1",
+  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.1/MDDown.exe",
   "asset": "MDDown.exe",
-  "sha256": "A78BCA6797C6FC121F3C8DE384B81DAB8782B3CCB65574A1B9B1F4E247158CDB",
-  "file_size": 115294943,
-  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.0/MD_Down_v2.6.0.zip",
-  "zip_asset": "MD_Down_v2.6.0.zip",
-  "zip_sha256": "F958AA63CDDCB2A583A708CF6FCED3050075767D003969F38F4DD073B30CDB55",
-  "zip_file_size": 263513115,
-  "changelog": "- Bản phát hành chính thức MD Down v2.6.0\n- Thêm tính năng tự động thêm ngày vào tên file video [YYYY-MM-DD]\n- Thêm tính năng tự động phân loại thư mục theo ngày ngăn nắp\n- Bổ sung tùy chọn nguồn ngày: Ưu tiên ngày đăng video hoặc Luôn lấy ngày tải hôm nay\n- Giao diện tích hợp checkbox điều khiển trực quan tại Tab Quét & Tải và Tab Cài đặt\n- Giữ nguyên 100% các tính năng sẵn có (Realtime License, TikTok Shop, Spy FB/IG Reels)",
+  "sha256": "347718618C7A7DDD4CDF793CA1D08645B639BB42FEC794E5970A7A837E70846F",
+  "file_size": 115295228,
+  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.1/MD_Down_v2.6.1.zip",
+  "zip_asset": "MD_Down_v2.6.1.zip",
+  "zip_sha256": "942DCBB65D646F9327E4D0C7284D80941065A4C372641EC0A017D33D720193A5",
+  "zip_file_size": 263513428,
+  "changelog": "- Bản phát hành chính thức MD Down v2.6.1\n- Chuẩn hóa: Video tải ngày hôm nay luôn lưu vào mục ngày hôm nay\n- Mặc định ngày tải về máy hôm nay làm ngày phân loại thư mục và tên file\n- Giữ nguyên 100% các tính năng quét đa nền tảng, Realtime License, TikTok Shop, Spy FB/IG",
   "release_notes": [
-    "Bản phát hành chính thức MD Down v2.6.0",
-    "Thêm tính năng tự động thêm ngày vào tên file video [YYYY-MM-DD]",
-    "Thêm tính năng tự động phân loại thư mục theo ngày ngăn nắp",
-    "Bổ sung tùy chọn nguồn ngày: Ưu tiên ngày đăng video hoặc Luôn lấy ngày tải hôm nay",
-    "Giao diện tích hợp checkbox điều khiển trực quan tại Tab Quét & Tải và Tab Cài đặt",
-    "Giữ nguyên 100% các tính năng sẵn có (Realtime License, TikTok Shop, Spy FB/IG Reels)"
+    "Bản phát hành chính thức MD Down v2.6.1",
+    "Chuẩn hóa: Video tải ngày hôm nay luôn lưu vào mục ngày hôm nay",
+    "Mặc định ngày tải về máy hôm nay làm ngày phân loại thư mục và tên file",
+    "Giữ nguyên 100% các tính năng quét đa nền tảng, Realtime License, TikTok Shop, Spy FB/IG"
   ],
   "release_date": "2026-10-20"
 }
