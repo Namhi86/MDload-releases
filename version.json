@@ -1,22 +1,23 @@
-﻿{
-    "app":  "MD Down",
-    "app_name":  "MD Down",
-    "version":  "2.6.3",
-    "tag":  "v2.6.3",
-    "download_url":  "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.3/MDDown.exe",
-    "asset":  "MDDown.exe",
-    "sha256":  "26B130D47CD0D7A2E2DCBFF73E91128E26D6EFDC80430478D5BDE7AACDE2EBD2",
-    "file_size":  115324890,
-    "zip_download_url":  "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.3/MD_Down_v2.6.3.zip",
-    "zip_asset":  "MD_Down_v2.6.3.zip",
-    "zip_sha256":  "F1B55A27E6204E4171CF0500D86B28C1C4285F33670A5DF595C4074B82F9D618",
-    "zip_file_size":  260998820,
-    "changelog":  "- Bản phát hành chính thức MD Down v2.6.3\n- Chuyển định dạng mã máy (Machine ID) và License Key sang tiền tố MDDOWN-... độc lập hoàn toàn với tool MD AUTO\n- Tương thích tự động các key cũ (MDAUTO, MDLOAD) của khách hàng hiện tại mà không cần kích hoạt lại\n- Hệ thống 3 gói bản quyền chuẩn (1 Tháng, 3 Tháng, 6 Tháng) mở khóa FULL 100% tính năng phần mềm",
-    "release_notes":  [
-                          "Bản phát hành chính thức MD Down v2.6.3",
-                          "Chuyển định dạng mã máy (Machine ID) và License Key sang tiền tố MDDOWN-... độc lập hoàn toàn với tool MD AUTO",
-                          "Tương thích tự động các key cũ (MDAUTO, MDLOAD) của khách hàng hiện tại mà không cần kích hoạt lại",
-                          "Hệ thống 3 gói bản quyền chuẩn (1 Tháng, 3 Tháng, 6 Tháng) mở khóa FULL 100% tính năng phần mềm"
-                      ],
-    "release_date":  "2026-10-21"
+{
+  "app": "MD Down",
+  "app_name": "MD Down",
+  "version": "2.6.4",
+  "tag": "v2.6.4",
+  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.4/MDDown.exe",
+  "asset": "MDDown.exe",
+  "sha256": "D97F527F7B9032CDDC4AFD862246E8B046EBC535821E0ACF919DBDB7AD5C2414",
+  "file_size": 115342666,
+  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.4/MD_Down_v2.6.4.zip",
+  "zip_asset": "MD_Down_v2.6.4.zip",
+  "zip_sha256": "6F42835A176FEA14FA9425BD324D6DF418B9AE2CD427743D055ECC7F92F38DB3",
+  "zip_file_size": 261015492,
+  "changelog": "- Bản phát hành chính thức MD Down v2.6.4\n- Sửa triệt để cơ chế đồng bộ bản quyền thời gian thực từ máy chủ (cập nhật tức thì khi đổi gói, gia hạn hoặc rút ngắn ngày sử dụng mà không cần nhập lại Key)\n- Nâng cấp cơ chế Khóa / Mở khóa Machine ID và chữ ký bảo mật HMAC-SHA256 V2\n- Tương thích tự động các key cũ (MDAUTO, MDLOAD) của khách hàng hiện tại\n- Hệ thống 3 gói bản quyền chuẩn (1 Tháng, 3 Tháng, 6 Tháng) mở khóa FULL 100% tính năng phần mềm",
+  "release_notes": [
+    "Bản phát hành chính thức MD Down v2.6.4",
+    "Sửa triệt để cơ chế đồng bộ bản quyền thời gian thực từ máy chủ (cập nhật tức thì khi đổi gói, gia hạn hoặc rút ngắn ngày sử dụng mà không cần nhập lại Key)",
+    "Nâng cấp cơ chế Khóa / Mở khóa Machine ID và chữ ký bảo mật HMAC-SHA256 V2",
+    "Tương thích tự động các key cũ (MDAUTO, MDLOAD) của khách hàng hiện tại",
+    "Hệ thống 3 gói bản quyền chuẩn (1 Tháng, 3 Tháng, 6 Tháng) mở khóa FULL 100% tính năng phần mềm"
+  ],
+  "release_date": "2026-10-21"
 }
