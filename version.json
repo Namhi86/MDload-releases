@@ -1,23 +1,22 @@
 {
   "app": "MD Down",
   "app_name": "MD Down",
-  "version": "2.6.1",
-  "tag": "v2.6.1",
-  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.1/MDDown.exe",
+  "version": "2.6.3",
+  "tag": "v2.6.3",
+  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.3/MDDown.exe",
   "asset": "MDDown.exe",
-  "sha256": "F698A196CAB4C7B573B5EEF02390AF3C2FAF18AED28B906629B922783D63D32E",
-  "file_size": 115297336,
-  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.1/MD_Down_v2.6.1.zip",
-  "zip_asset": "MD_Down_v2.6.1.zip",
-  "zip_sha256": "5936A1AF200724EC0D8466C124A36DF3E3C36EFBBE8F286903499120BC3B995C",
-  "zip_file_size": 263515334,
-  "changelog": "- Bản phát hành chính thức MD Down v2.6.1\n- Bổ sung nút '🚫 Bỏ video đã tải' giúp bỏ chọn 1-click các video đã tải trước đó\n- Nâng cấp cơ chế tải: Tải hết 100% tất cả video người dùng đã tích chọn\n- Chuẩn hóa: Video tải ngày hôm nay luôn lưu vào mục ngày hôm nay\n- Giữ nguyên 100% các tính năng quét đa nền tảng, Realtime License, TikTok Shop, Spy FB/IG",
+  "sha256": "4498BE6D3CEB3052FAE142470CE7DDB86AB1F7679236C2B394A9EC524CBE05A2",
+  "file_size": 115323507,
+  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.3/MD_Down_v2.6.3.zip",
+  "zip_asset": "MD_Down_v2.6.3.zip",
+  "zip_sha256": "0D6AABF0A01D127BBA4EF12D79DC75377F474E9811D82B66F026489069EB2AE8",
+  "zip_file_size": 260997806,
+  "changelog": "- Bản phát hành chính thức MD Down v2.6.3\n- Chuyển định dạng mã máy (Machine ID) và License Key sang tiền tố MDDOWN-... độc lập hoàn toàn với tool MD AUTO\n- Tương thích tự động các key cũ (MDAUTO, MDLOAD) của khách hàng hiện tại mà không cần kích hoạt lại\n- Hệ thống 3 gói bản quyền chuẩn (1 Tháng, 3 Tháng, 6 Tháng) mở khóa FULL 100% tính năng phần mềm",
   "release_notes": [
-    "Bản phát hành chính thức MD Down v2.6.1",
-    "Bổ sung nút '🚫 Bỏ video đã tải' giúp bỏ chọn 1-click các video đã tải trước đó",
-    "Nâng cấp cơ chế tải: Tải hết 100% tất cả video người dùng đã tích chọn",
-    "Chuẩn hóa: Video tải ngày hôm nay luôn lưu vào mục ngày hôm nay",
-    "Giữ nguyên 100% các tính năng quét đa nền tảng, Realtime License, TikTok Shop, Spy FB/IG"
+    "Bản phát hành chính thức MD Down v2.6.3",
+    "Chuyển định dạng mã máy (Machine ID) và License Key sang tiền tố MDDOWN-... độc lập hoàn toàn với tool MD AUTO",
+    "Tương thích tự động các key cũ (MDAUTO, MDLOAD) của khách hàng hiện tại mà không cần kích hoạt lại",
+    "Hệ thống 3 gói bản quyền chuẩn (1 Tháng, 3 Tháng, 6 Tháng) mở khóa FULL 100% tính năng phần mềm"
   ],
-  "release_date": "2026-10-20"
+  "release_date": "2026-10-21"
 }
