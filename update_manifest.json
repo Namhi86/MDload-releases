@@ -1,23 +1,23 @@
 {
   "app": "MD Down",
   "app_name": "MD Down",
-  "version": "2.6.4",
-  "tag": "v2.6.4",
-  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.4/MDDown.exe",
+  "version": "2.6.6",
+  "tag": "v2.6.6",
+  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.6/MDDown.exe",
   "asset": "MDDown.exe",
-  "sha256": "D97F527F7B9032CDDC4AFD862246E8B046EBC535821E0ACF919DBDB7AD5C2414",
-  "file_size": 115342666,
-  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.4/MD_Down_v2.6.4.zip",
-  "zip_asset": "MD_Down_v2.6.4.zip",
-  "zip_sha256": "6F42835A176FEA14FA9425BD324D6DF418B9AE2CD427743D055ECC7F92F38DB3",
-  "zip_file_size": 261015492,
-  "changelog": "- Bản phát hành chính thức MD Down v2.6.4\n- Sửa triệt để cơ chế đồng bộ bản quyền thời gian thực từ máy chủ (cập nhật tức thì khi đổi gói, gia hạn hoặc rút ngắn ngày sử dụng mà không cần nhập lại Key)\n- Nâng cấp cơ chế Khóa / Mở khóa Machine ID và chữ ký bảo mật HMAC-SHA256 V2\n- Tương thích tự động các key cũ (MDAUTO, MDLOAD) của khách hàng hiện tại\n- Hệ thống 3 gói bản quyền chuẩn (1 Tháng, 3 Tháng, 6 Tháng) mở khóa FULL 100% tính năng phần mềm",
+  "sha256": "667C69E96CFFE7845D3BE0529B9084706A0D05453DADD06BCF2D941433E433A5",
+  "file_size": 115588574,
+  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.6/MD_Down_v2.6.6.zip",
+  "zip_asset": "MD_Down_v2.6.6.zip",
+  "zip_sha256": "D8E362AA1C3EEBAF2BEA9FF325D24EB57CD54486018FBFB4B0E70CB99D547167",
+  "zip_file_size": 263806544,
+  "changelog": "- Bản phát hành chính thức MD Down v2.6.6\n- Nâng cấp toàn diện số luồng Quét & Tải song song lên tối đa 16 luồng (mặc định 6 luồng), tăng tốc độ quét & tải hàng loạt\n- Tối ưu kết nối HTTP/TLS Session Keep-Alive theo từng luồng và truyền Cookie qua Header chống xung đột file cookies.txt khi đa luồng\n- Mở rộng từ điển đồng nghĩa đa ngành hàng (Mỹ phẩm, Điện tử, Gia dụng, Thời trang, Cơ khí) và bắt thêm link TikTok Photo Mode / DuckDuckGo\n- Tăng tốc Giai đoạn 2 quét Facebook & Instagram Affiliate (chặn tải luồng media nặng) và trích xuất đầy đủ Views, Likes, Comments cho Instagram",
   "release_notes": [
-    "Bản phát hành chính thức MD Down v2.6.4",
-    "Sửa triệt để cơ chế đồng bộ bản quyền thời gian thực từ máy chủ (cập nhật tức thì khi đổi gói, gia hạn hoặc rút ngắn ngày sử dụng mà không cần nhập lại Key)",
-    "Nâng cấp cơ chế Khóa / Mở khóa Machine ID và chữ ký bảo mật HMAC-SHA256 V2",
-    "Tương thích tự động các key cũ (MDAUTO, MDLOAD) của khách hàng hiện tại",
-    "Hệ thống 3 gói bản quyền chuẩn (1 Tháng, 3 Tháng, 6 Tháng) mở khóa FULL 100% tính năng phần mềm"
+    "Bản phát hành chính thức MD Down v2.6.6",
+    "Nâng cấp toàn diện số luồng Quét & Tải song song lên tối đa 16 luồng (mặc định 6 luồng), tăng tốc độ quét & tải hàng loạt",
+    "Tối ưu kết nối HTTP/TLS Session Keep-Alive theo từng luồng và truyền Cookie qua Header chống xung đột file cookies.txt khi đa luồng",
+    "Mở rộng từ điển đồng nghĩa đa ngành hàng (Mỹ phẩm, Điện tử, Gia dụng, Thời trang, Cơ khí) và bắt thêm link TikTok Photo Mode / DuckDuckGo",
+    "Tăng tốc Giai đoạn 2 quét Facebook & Instagram Affiliate (chặn tải luồng media nặng) và trích xuất đầy đủ Views, Likes, Comments cho Instagram"
   ],
-  "release_date": "2026-10-21"
+  "release_date": "2026-10-29"
 }
