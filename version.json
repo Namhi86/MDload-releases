@@ -1,24 +1,23 @@
 {
   "app": "MD Down",
   "app_name": "MD Down",
-  "version": "2.6.5",
-  "tag": "v2.6.5",
-  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.5/MDDown.exe",
+  "version": "2.6.6",
+  "tag": "v2.6.6",
+  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.6/MDDown.exe",
   "asset": "MDDown.exe",
-  "sha256": "95CE99E322789D8BE7D788470458711AEE24457185C3BD61E3EF7EFA75FF7E8F",
-  "file_size": 115578160,
-  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.5/MD_Down_v2.6.5.zip",
-  "zip_asset": "MD_Down_v2.6.5.zip",
-  "zip_sha256": "CFA15E6C34D09CBD48B95A19A83985880D1A961883961159FBEEC62F148C4A0B",
-  "zip_file_size": 261250555,
-  "changelog": "- Bản phát hành chính thức MD Down v2.6.5\n- Bổ sung & nâng cấp tính năng Quét toàn bộ video theo sản phẩm TikTok Shop (Product Video Spy) hoàn toàn miễn phí\n- Xác minh chính xác 100% bằng chứng giỏ hàng Product Anchor (Type 33), phân loại rõ VIDEO ĐANG GẮN và VIDEO ĐÃ TỪNG GẮN\n- Tối ưu đa luồng 4 hàng đợi độc lập (12 Verify Workers / 4 Download Workers) tăng tốc độ quét và tải hàng loạt\n- Tải video hàng loạt theo sản phẩm giữ nguyên Caption + Hashtag, xuất san_pham.txt & Excel, chống tải trùng, hỗ trợ Dừng/Tiếp tục\n- Lưu trữ lịch sử xác minh bền vững vào SQLite (%APPDATA%\\MDDown\\product_video_history.db) kèm cơ chế tự động sao lưu/khôi phục",
+  "sha256": "667C69E96CFFE7845D3BE0529B9084706A0D05453DADD06BCF2D941433E433A5",
+  "file_size": 115588574,
+  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.6/MD_Down_v2.6.6.zip",
+  "zip_asset": "MD_Down_v2.6.6.zip",
+  "zip_sha256": "D8E362AA1C3EEBAF2BEA9FF325D24EB57CD54486018FBFB4B0E70CB99D547167",
+  "zip_file_size": 263806544,
+  "changelog": "- Bản phát hành chính thức MD Down v2.6.6\n- Nâng cấp toàn diện số luồng Quét & Tải song song lên tối đa 16 luồng (mặc định 6 luồng), tăng tốc độ quét & tải hàng loạt\n- Tối ưu kết nối HTTP/TLS Session Keep-Alive theo từng luồng và truyền Cookie qua Header chống xung đột file cookies.txt khi đa luồng\n- Mở rộng từ điển đồng nghĩa đa ngành hàng (Mỹ phẩm, Điện tử, Gia dụng, Thời trang, Cơ khí) và bắt thêm link TikTok Photo Mode / DuckDuckGo\n- Tăng tốc Giai đoạn 2 quét Facebook & Instagram Affiliate (chặn tải luồng media nặng) và trích xuất đầy đủ Views, Likes, Comments cho Instagram",
   "release_notes": [
-    "Bản phát hành chính thức MD Down v2.6.5",
-    "Bổ sung & nâng cấp tính năng Quét toàn bộ video theo sản phẩm TikTok Shop (Product Video Spy) hoàn toàn miễn phí",
-    "Xác minh chính xác 100% bằng chứng giỏ hàng Product Anchor (Type 33), phân loại rõ VIDEO ĐANG GẮN và VIDEO ĐÃ TỪNG GẮN",
-    "Tối ưu đa luồng 4 hàng đợi độc lập (12 Verify Workers / 4 Download Workers) tăng tốc độ quét và tải hàng loạt",
-    "Tải video hàng loạt theo sản phẩm giữ nguyên Caption + Hashtag, xuất san_pham.txt & Excel, chống tải trùng, hỗ trợ Dừng/Tiếp tục",
-    "Lưu trữ lịch sử xác minh bền vững vào SQLite (%APPDATA%\\MDDown\\product_video_history.db) kèm cơ chế tự động sao lưu/khôi phục"
+    "Bản phát hành chính thức MD Down v2.6.6",
+    "Nâng cấp toàn diện số luồng Quét & Tải song song lên tối đa 16 luồng (mặc định 6 luồng), tăng tốc độ quét & tải hàng loạt",
+    "Tối ưu kết nối HTTP/TLS Session Keep-Alive theo từng luồng và truyền Cookie qua Header chống xung đột file cookies.txt khi đa luồng",
+    "Mở rộng từ điển đồng nghĩa đa ngành hàng (Mỹ phẩm, Điện tử, Gia dụng, Thời trang, Cơ khí) và bắt thêm link TikTok Photo Mode / DuckDuckGo",
+    "Tăng tốc Giai đoạn 2 quét Facebook & Instagram Affiliate (chặn tải luồng media nặng) và trích xuất đầy đủ Views, Likes, Comments cho Instagram"
   ],
-  "release_date": "2026-10-24"
+  "release_date": "2026-10-29"
 }
