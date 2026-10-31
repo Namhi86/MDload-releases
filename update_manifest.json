@@ -1,23 +1,23 @@
 {
-  "app": "MD Down",
-  "app_name": "MD Down",
-  "version": "2.6.6",
-  "tag": "v2.6.6",
-  "download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.6/MDDown.exe",
-  "asset": "MDDown.exe",
-  "sha256": "667C69E96CFFE7845D3BE0529B9084706A0D05453DADD06BCF2D941433E433A5",
-  "file_size": 115588574,
-  "zip_download_url": "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.6/MD_Down_v2.6.6.zip",
-  "zip_asset": "MD_Down_v2.6.6.zip",
-  "zip_sha256": "D8E362AA1C3EEBAF2BEA9FF325D24EB57CD54486018FBFB4B0E70CB99D547167",
-  "zip_file_size": 263806544,
-  "changelog": "- Bản phát hành chính thức MD Down v2.6.6\n- Nâng cấp toàn diện số luồng Quét & Tải song song lên tối đa 16 luồng (mặc định 6 luồng), tăng tốc độ quét & tải hàng loạt\n- Tối ưu kết nối HTTP/TLS Session Keep-Alive theo từng luồng và truyền Cookie qua Header chống xung đột file cookies.txt khi đa luồng\n- Mở rộng từ điển đồng nghĩa đa ngành hàng (Mỹ phẩm, Điện tử, Gia dụng, Thời trang, Cơ khí) và bắt thêm link TikTok Photo Mode / DuckDuckGo\n- Tăng tốc Giai đoạn 2 quét Facebook & Instagram Affiliate (chặn tải luồng media nặng) và trích xuất đầy đủ Views, Likes, Comments cho Instagram",
-  "release_notes": [
-    "Bản phát hành chính thức MD Down v2.6.6",
-    "Nâng cấp toàn diện số luồng Quét & Tải song song lên tối đa 16 luồng (mặc định 6 luồng), tăng tốc độ quét & tải hàng loạt",
-    "Tối ưu kết nối HTTP/TLS Session Keep-Alive theo từng luồng và truyền Cookie qua Header chống xung đột file cookies.txt khi đa luồng",
-    "Mở rộng từ điển đồng nghĩa đa ngành hàng (Mỹ phẩm, Điện tử, Gia dụng, Thời trang, Cơ khí) và bắt thêm link TikTok Photo Mode / DuckDuckGo",
-    "Tăng tốc Giai đoạn 2 quét Facebook & Instagram Affiliate (chặn tải luồng media nặng) và trích xuất đầy đủ Views, Likes, Comments cho Instagram"
-  ],
-  "release_date": "2026-10-29"
+    "app":  "MD Down",
+    "app_name":  "MD Down",
+    "version":  "2.6.7",
+    "tag":  "v2.6.7",
+    "download_url":  "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.7/MDDown.exe",
+    "asset":  "MDDown.exe",
+    "sha256":  "FA98B149A573BE803B9A6905ECB4D9FF7DE7CFBE1053B7AA56314D8D03E40FE7",
+    "file_size":  115592400,
+    "zip_download_url":  "https://github.com/Namhi86/MDload-releases/releases/download/v2.6.7/MD_Down_v2.6.7.zip",
+    "zip_asset":  "MD_Down_v2.6.7.zip",
+    "zip_sha256":  "918D9584C75F83CF40B898EC0EBE6BEA9273AC19896FD6BE1041CC706BC8C2E8",
+    "zip_file_size":  261265254,
+    "changelog":  "- Bản phát hành chính thức MD Down v2.6.7\n- Nâng cấp bảo mật bản quyền với chữ ký số bất đối xứng RSA-2048 và ẩn khóa đa tầng (giữ nguyên tương thích 100% với mọi Key cũ của khách hàng)\n- Tăng cường an toàn tự động cập nhật: bắt buộc kênh truyền HTTPS, kiểm tra toàn vẹn mã băm SHA-256 và chống tiêm lệnh PowerShell\n- Khóa chặt chế độ kiểm thử và vô hiệu hóa nạp file bản quyền trôi nổi ngoài ý muốn trên bản đóng gói chính thức\n- Duy trì hiệu năng tối đa 16 luồng Quét \u0026 Tải song song, tối ưu HTTP/TLS Keep-Alive và quét TikTok Shop / Facebook / Instagram Affiliate",
+    "release_notes":  [
+                          "Bản phát hành chính thức MD Down v2.6.7",
+                          "Nâng cấp bảo mật bản quyền với chữ ký số bất đối xứng RSA-2048 và ẩn khóa đa tầng (giữ nguyên tương thích 100% với mọi Key cũ của khách hàng)",
+                          "Tăng cường an toàn tự động cập nhật: bắt buộc kênh truyền HTTPS, kiểm tra toàn vẹn mã băm SHA-256 và chống tiêm lệnh PowerShell",
+                          "Khóa chặt chế độ kiểm thử và vô hiệu hóa nạp file bản quyền trôi nổi ngoài ý muốn trên bản đóng gói chính thức",
+                          "Duy trì hiệu năng tối đa 16 luồng Quét \u0026 Tải song song, tối ưu HTTP/TLS Keep-Alive và quét TikTok Shop / Facebook / Instagram Affiliate"
+                      ],
+    "release_date":  "2026-11-01"
 }
